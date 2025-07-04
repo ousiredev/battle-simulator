@@ -26,3 +26,12 @@ Built by a 13-year-old beginner learning Python. 💻🔥
    git clone https://github.com/ousiredev/battle-simulator.git
 
 Once you're done, you can run the code by typing this in the terminal: python3 battle_simulator.py
+
+## Sample Output
+
+--- Turn 1 ---
+Leon slashes Goblin for 15 with a sword
+Goblin bites Leon for 8 damage!
+Leon HP: 92
+Zara HP: 80
+Goblin HP: 45
